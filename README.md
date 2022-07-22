@@ -1,5 +1,7 @@
 # 🚧 Work In Progress
 
+Named for Seshat, the Egyptian goddess of writing, wisdom, and knowledge.
+
 # **Goal**
 
 Create a set of scripts to assist in collecting and archiving information on the internet.
